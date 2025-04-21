@@ -1,0 +1,34 @@
+# Words I have retired from the list for having singular meaning and too 
+# specific to elicit a variation of clues (some of such words are fine, but
+# too many results in the game becoming unplayable).
+BALLET
+ADELE
+APRIL
+ARISTOTLE
+ASTRONOMY
+BACH
+BANGKOK
+BOMBAY
+BUDDHA
+CONFUCIUS
+EDUCATION
+EIFFEL
+GENGHIS
+GODZILLA
+HONG KONG
+KAREN
+LANCELOT
+LUCY
+MOAI
+MOZART
+OSIRIS
+PHILIPPINE
+POPE
+SHERPA
+SHIVA
+SOCRATES
+TORONTO
+VOLTAIRE
+WAGNER
+WESTMINSTER
+ZEN
